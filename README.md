@@ -1,4 +1,4 @@
-# Reglamento bootcamp
+# Reglamento master
 
 1. No se garantiza la emisión del certificado ni los resultados de tu formación en caso de incurrir en:
     - 2 inasistencias continuas
